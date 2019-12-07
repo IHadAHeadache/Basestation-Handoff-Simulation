@@ -1,18 +1,18 @@
 # Basestation-Handoff-Simulation
-Map:
-------O------O------
-|     |      |     |
-|     |      |     |
-|     |      |     |
-O-----X------X-----O
-|     |      |     |
-|     |      |     |
-|     |      |     |
-O-----X------X-----O
-|     |      |     |
-|     |      |     |
-|     |      |     |
-------O------O------
+Map:  
+------O------O------    
+|     |      |     |   
+|     |      |     |   
+|     |      |     |   
+O-----X------X-----O    
+|     |      |     |  
+|     |      |     |  
+|     |      |     |  
+O-----X------X-----O  
+|     |      |     |  
+|     |      |     |  
+|     |      |     |  
+------O------O------  
 
 ----------------------
 Notation:
@@ -22,7 +22,7 @@ X: Base station
 Goal:
   Simulate Cars running in the map,
 then calculate the number of handoff
-and average power.
+and average power.  
 Policies:
   1. Best
   2. Threshold
